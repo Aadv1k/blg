@@ -1,0 +1,5 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Aadv1k's corner on the web"
+theme = "contrast-hugo"
+
