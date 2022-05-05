@@ -138,7 +138,7 @@ classes in all the days, in all the files to fetch the data we need, I put in
 more than just the `has_classwork` and included other data for future use in the
 `final_data` dict. The final result was quite interesting.
 
-![Classwork-data-plot-img](/classwork-plot-img.png)
+![Classwork-data-plot-img](/classwork-plot-img.png) 
 
 The reason why science is so low, is probably due to teacher not clocking in the classwork done, as opposed to english, which has over 90 assignments.
 anyways, bye.
