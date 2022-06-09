@@ -1,5 +1,5 @@
 ---
-title: "Mining Cleaning and Plotting My school's classwork data"
+title: "Visualising some school data because I had nothing better to do"
 date: 2022-03-27T08:19:11+05:30
 draft: false
 ---
@@ -61,8 +61,8 @@ following structure --
 ```json
 {
     "label": "Monday",
-    "date": "05 Apr, 2021"
-    "groups": [..]
+    "date": "05 Apr, 2021",
+    "groups": [...]
 }
 ```
 
@@ -140,5 +140,9 @@ more than just the `has_classwork` and included other data for future use in the
 
 ![Classwork-data-plot-img](/classwork-plot-img.png) 
 
-The reason why science is so low, is probably due to teacher not clocking in the classwork done, as opposed to english, which has over 90 assignments.
-anyways, bye.
+The reason why the data has huge disparities between them, can be credited to
+two reasons 
+- Not all classwork is put in as "Classwork" in the portal
+- Most of the time in place of a "Classwork" external sites such as quizzz or
+  kahoot were used in place of a classwork.
+
