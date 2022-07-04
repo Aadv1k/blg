@@ -1,3 +1,6 @@
 [submodule "themes/contrast-hugo"]
 	path = themes/contrast-hugo
 	url = https://github.com/niklasbuschmann/contrast-hugo
+[submodule "themes/contrast-hugo-custom"]
+	path = themes/contrast-hugo-custom
+	url = https://github.com/Aadv1k/contrast-hugo-custom
